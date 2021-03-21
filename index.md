@@ -2,7 +2,7 @@
 
 趣味で Web サービスを作っているデータサイエンティストです。
 
-[![Linkedin](/icon/linkedin.png)](https://www.linkedin.com/in/ryo-koyajima/)
+[![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
 [![Twitter](/icon/twitter.svg)](https://twitter.com/koyaaarr)
 [![facebook](/icon/facebook.png)](https://www.facebook.com/ryo.koyajima.71/)
 
