@@ -2,7 +2,21 @@
 
 趣味で Web サービスを作っているデータサイエンティストです。
 
-## つくったもの
+## 書いたもの
+
+### 機械学習 PoC と本番運用のあいだ
+
+- [Qiita](https://qiita.com/koyaaarr/items/259ad4f0d574497c5b08)
+- 機械学習系プロジェクトにおいて、PoC で作ったプログラムを本番環境としてクラウド上で運用していく事例を書きました。
+  ![機械学習 PoC と本番運用のあいだ](https://camo.qiitausercontent.com/82ba511be1b702adf14e6abadc42f1538aaadb11/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3230383736352f33323930633639612d623333342d383432302d346461302d3035623065383733663866612e706e67)
+
+### Between Machine Learning PoC and Production
+
+- [Medium](https://medium.com/swlh/between-machine-learning-poc-and-production-618502abef86)
+- 「機械学習 PoC と本番運用のあいだ」の英語バージョンです。
+  ![Between Machine Learning PoC and Production](https://miro.medium.com/max/1111/1*RsYYFRUCvRGWQBb8TmSD6g.png)
+
+## 作ったもの
 
 ### Depengers(2020)
 
