@@ -2,11 +2,11 @@
 
 趣味で Web サービスを作っているデータサイエンティストです。
 
+![koyaaarr](https://media-exp1.licdn.com/dms/image/C5603AQEkz82yXtl_cQ/profile-displayphoto-shrink_200_200/0/1614157069912?e=1622073600&v=beta&t=_x3woQ_xlGjIaj1s-kY69CV3gAkmMIv906SmeTk1Ie8)
+
 [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
 [![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr)
 [![facebook](/icon/facebook.png){: height="36px" width="36px"}](https://www.facebook.com/ryo.koyajima.71/)
-
-![koyaaarr](https://media-exp1.licdn.com/dms/image/C5603AQEkz82yXtl_cQ/profile-displayphoto-shrink_200_200/0/1614157069912?e=1622073600&v=beta&t=_x3woQ_xlGjIaj1s-kY69CV3gAkmMIv906SmeTk1Ie8)
 
 ## 書いたもの
 
