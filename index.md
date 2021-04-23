@@ -2,7 +2,7 @@
 
 趣味で Web サービスを作っているデータサイエンティストです。
 
-![koyaaarr](https://media-exp1.licdn.com/dms/image/C5603AQEkz82yXtl_cQ/profile-displayphoto-shrink_200_200/0/1614157069912?e=1622073600&v=beta&t=_x3woQ_xlGjIaj1s-kY69CV3gAkmMIv906SmeTk1Ie8)
+![koyaaarr](https://media-exp1.licdn.com/dms/image/C5603AQFfPKeno4h_4Q/profile-displayphoto-shrink_800_800/0/1618842397677?e=1624492800&v=beta&t=bkSyYlbFYShs_rBAYRF9b7yJucGmTvlyoOTABJ2KKdk)
 
 [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
 [![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr)
