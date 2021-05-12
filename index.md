@@ -83,10 +83,11 @@
 
 #### ドライブレコーダーデータ可視化アプリケーション
 
+- [デモはこちらから(YouTube)](https://www.youtube.com/watch?v=C63ZfP9bFPY)
 - 大学院の修士時代に実装しました。
 - ドライブレコーダーデータのハンドル操作・ブレーキ操作を地図上に可視化し、危険な操作が多く発生している箇所を特定するために作成しました。
 
-- [drive recorder demo](https://www.youtube.com/watch?v=C63ZfP9bFPY)
+![drivedemo](/image/drive_recorder_demo.png)
 
 ## プライバシーポリシー
 
