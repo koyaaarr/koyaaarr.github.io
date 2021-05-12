@@ -10,6 +10,14 @@
 
 ## 書いたもの
 
+### データサイエンティストのPoCな日々
+
+- [記事へのアクセスはこちらから(Note)](https://note.com/koyaaarr/n/n6d236150b4f7)
+- PoC をやっているデータサイエンティストが日々の業務について思うことを書きました。
+
+![データサイエンティストのPoCな日々](https://assets.st-note.com/production/uploads/images/51952187/rectangle_large_type_2_6ce34f57c981ca3f1cbef7b94c3043ce.jpeg?width=800)
+
+
 ### 機械学習 PoC と本番運用のあいだ
 
 - [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/259ad4f0d574497c5b08)
