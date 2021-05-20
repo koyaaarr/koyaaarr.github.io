@@ -10,6 +10,14 @@
 
 ## 書いたもの
 
+#### データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします
+
+- [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/f99be22eb63bd8705c42)
+- データ分析でよく使われるJupyter Notebook / Jupyter Lab について、私の実務で使ってきた視点から、改めてメリットを整理してみました。
+
+![データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F208765%2Fec4dad62-9ed2-d3eb-6243-13fdbb9951d6.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&w=1400&fit=max&s=53b02ae6fbb1d0d52f60f6616e28096b)
+
+
 #### データサイエンティストのPoCな日々
 
 - [記事へのアクセスはこちらから(Note)](https://note.com/koyaaarr/n/n6d236150b4f7)
