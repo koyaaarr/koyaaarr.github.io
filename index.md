@@ -10,6 +10,14 @@
 
 ## 書いたもの
 
+#### I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis
+
+- [記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/i-as-a-data-scientist-will-demonstrate-why-jupyter-notebook-and-jupyter-lab-are-good-for-analysis-19585bcdff72)
+- 「データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします」の英語バージョンです。
+
+![I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis
+](https://miro.medium.com/max/2562/1*ENb7LhO8QFqIx8plvHd-mw.png)
+
 #### データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします
 
 - [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/f99be22eb63bd8705c42)
