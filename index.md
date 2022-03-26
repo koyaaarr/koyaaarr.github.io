@@ -10,15 +10,21 @@
 
 ## 書いたもの
 
-#### I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis
+#### 16性格タイプ(MBTI) の指標まとめ (2022/3)
+- [記事へのアクセスはこちらから(note)](https://note.com/koyaaarr/n/n75d0bc459e07)
+- 性格診断でよく使われている16性格タイプ(MBTI)の各指標についてまとめてみました。
 
-- [記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/i-as-a-data-scientist-will-demonstrate-why-jupyter-notebook-and-jupyter-lab-are-good-for-analysis-19585bcdff72)
+![16性格タイプ(MBTI) の指標まとめ](https://assets.st-note.com/production/uploads/images/74868600/rectangle_large_type_2_4006821a15201c126a61802db48b8faa.png)
+
+#### I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis (2021/6)
+
+- [記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/i-as-a-data-scientist-will-show-you-why-jupyter-notebook-and-jupyter-lab-are-good-for-data-ee507aff41cb)
 - 「データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします」の英語バージョンです。
 
 ![I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis
 ](https://miro.medium.com/max/2562/1*ENb7LhO8QFqIx8plvHd-mw.png)
 
-#### データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします
+#### データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします (2021/6)
 
 - [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/f99be22eb63bd8705c42)
 - データ分析でよく使われるJupyter Notebook / Jupyter Lab について、私の実務で使ってきた視点から、改めてメリットを整理してみました。
@@ -26,22 +32,22 @@
 ![データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F208765%2Fec4dad62-9ed2-d3eb-6243-13fdbb9951d6.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&w=1400&fit=max&s=53b02ae6fbb1d0d52f60f6616e28096b)
 
 
-#### データサイエンティストのPoCな日々
+#### データサイエンティストのPoCな日々 (2021/5)
 
 - [記事へのアクセスはこちらから(Note)](https://note.com/koyaaarr/n/n6d236150b4f7)
 - PoC をやっているデータサイエンティストが日々の業務について思うことを書きました。
 
-![データサイエンティストのPoCな日々](https://assets.st-note.com/production/uploads/images/51952187/rectangle_large_type_2_6ce34f57c981ca3f1cbef7b94c3043ce.jpeg?width=800)
+![データサイエンティストのPoCな日々](https://assets.st-note.com/production/uploads/images/71158898/rectangle_large_type_2_2d4f530e43fe08b0a57f69d031aa0399.jpg?width=800)
 
 
-#### 機械学習 PoC と本番運用のあいだ
+#### 機械学習 PoC と本番運用のあいだ (2021/2)
 
 - [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/259ad4f0d574497c5b08)
 - 機械学習系プロジェクトにおいて、PoC で作ったプログラムを本番環境としてクラウド上で運用していく事例を書きました。
 
 ![機械学習 PoC と本番運用のあいだ](https://camo.qiitausercontent.com/82ba511be1b702adf14e6abadc42f1538aaadb11/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3230383736352f33323930633639612d623333342d383432302d346461302d3035623065383733663866612e706e67)
 
-#### Between Machine Learning PoC and Production
+#### Between Machine Learning PoC and Production (2021/2)
 
 - [記事へのアクセスはこちらから(Medium)](https://medium.com/swlh/between-machine-learning-poc-and-production-618502abef86)
 - 「機械学習 PoC と本番運用のあいだ」の英語バージョンです。
@@ -50,7 +56,14 @@
 
 ## 作ったもの
 
-#### Depengers(2020)
+#### embrii 性格診断 (2021-2022)
+- [サイトへのアクセスはこちらから](https://www.personality-test.embrii.jp/en-US/school/questionaire 'embrii personality-test')
+- ビッグファイブと呼ばれる性格を測る指標を用いて、性格診断を行うサイトです。
+- 性格診断を通じて、自己理解や他者理解につながるサービスを目指して、鋭意開発中です。
+
+![embrii personality-test](/image/about_embrii_personality-test.png)
+
+#### Depengers (2020)
 
 - [サイトへのアクセスはこちらから](https://depengers.web.app/app 'depengers')
 - マーベル・シネマティック・ユニバースの作品のチェックリストを管理するサイトです。
