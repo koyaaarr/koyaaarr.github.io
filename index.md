@@ -5,63 +5,97 @@
 ![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="192px" width="192px"}
 
 [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
+
 <!-- [![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr) -->
+
 [![facebook](/icon/facebook.png){: height="36px" width="36px"}](https://www.facebook.com/ryo.koyajima.71/)
 
 ## 書いたもの
 
-#### 16性格タイプ(MBTI) の指標まとめ (2022/3)
-- [記事へのアクセスはこちらから(note)](https://note.com/koyaaarr/n/n75d0bc459e07)
-- 性格診断でよく使われている16性格タイプ(MBTI)の各指標についてまとめてみました。
+![A Practical Use-Case of Cloud-Native and Secured Dashboard with Google Cloud and Python Streamlit](https://storage.googleapis.com/zenn-user-upload/deployed-images/8e7e4dc478ab069e12c19096.gif)
+
+#### A Practical Use-Case of Cloud-Native and Secured Dashboard with Google Cloud and Python Streamlit
+
+- 記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/a-practical-use-case-of-cloud-native-and-secured-dashboard-with-google-cloud-and-python-streamlit-a66e60d62ca8)
+- Google Cloud Run + IAP と Python Streamlit を組み合わせて投資ポートフォリオ管理ダッシュボードをつくってみました。英語バージョン&再構成版です。
+
+---
+
+![Google Cloud Run と Python Streamlit を使ってインデックス投資管理ダッシュボードを作ってみる](https://storage.googleapis.com/zenn-user-upload/deployed-images/8e7e4dc478ab069e12c19096.gif)
+
+#### Google Cloud Run と Python Streamlit を使ってインデックス投資管理ダッシュボードを作ってみる
+
+- 記事へのアクセスはこちらから(Zenn)](https://zenn.dev/koyaaarr/articles/20220509-invest-analytics)
+- Google Cloud Run + IAP と Python Streamlit を組み合わせて投資ポートフォリオ管理ダッシュボードをつくってみました。
+
+---
 
 ![16性格タイプ(MBTI) の指標まとめ](https://assets.st-note.com/production/uploads/images/74868600/rectangle_large_type_2_4006821a15201c126a61802db48b8faa.png)
 
-#### I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis (2021/6)
+#### 16 性格タイプ(MBTI) の指標まとめ (2022/3)
 
-- [記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/i-as-a-data-scientist-will-show-you-why-jupyter-notebook-and-jupyter-lab-are-good-for-data-ee507aff41cb)
-- 「データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします」の英語バージョンです。
+- [記事へのアクセスはこちらから(note)](https://note.com/koyaaarr/n/n75d0bc459e07)
+- 性格診断でよく使われている 16 性格タイプ(MBTI)の各指標についてまとめてみました。
+
+---
 
 ![I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis
 ](https://miro.medium.com/max/2562/1*ENb7LhO8QFqIx8plvHd-mw.png)
 
-#### データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします (2021/6)
+#### I, as a data scientist, will show you why Jupyter Notebook and Jupyter Lab are good for data analysis (2021/6)
 
-- [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/f99be22eb63bd8705c42)
-- データ分析でよく使われるJupyter Notebook / Jupyter Lab について、私の実務で使ってきた視点から、改めてメリットを整理してみました。
+- [記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/i-as-a-data-scientist-will-show-you-why-jupyter-notebook-and-jupyter-lab-are-good-for-data-ee507aff41cb)
+- 「データサイエンティストが JupyterNotebook・JupyterLab の良さをプレゼンします」の英語バージョンです。
+
+---
 
 ![データサイエンティストがJupyterNotebook・JupyterLabの良さをプレゼンします](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F208765%2Fec4dad62-9ed2-d3eb-6243-13fdbb9951d6.png?ixlib=rb-4.0.0&auto=format&gif-q=60&q=75&w=1400&fit=max&s=53b02ae6fbb1d0d52f60f6616e28096b)
 
+#### データサイエンティストが JupyterNotebook・JupyterLab の良さをプレゼンします (2021/6)
 
-#### データサイエンティストのPoCな日々 (2021/5)
+- [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/f99be22eb63bd8705c42)
+- データ分析でよく使われる Jupyter Notebook / Jupyter Lab について、私の実務で使ってきた視点から、改めてメリットを整理してみました。
+
+---
+
+![データサイエンティストのPoCな日々](https://assets.st-note.com/production/uploads/images/71158898/rectangle_large_type_2_2d4f530e43fe08b0a57f69d031aa0399.jpg?width=800)
+
+#### データサイエンティストの PoC な日々 (2021/5)
 
 - [記事へのアクセスはこちらから(Note)](https://note.com/koyaaarr/n/n6d236150b4f7)
 - PoC をやっているデータサイエンティストが日々の業務について思うことを書きました。
 
-![データサイエンティストのPoCな日々](https://assets.st-note.com/production/uploads/images/71158898/rectangle_large_type_2_2d4f530e43fe08b0a57f69d031aa0399.jpg?width=800)
+---
 
+![機械学習 PoC と本番運用のあいだ](https://camo.qiitausercontent.com/82ba511be1b702adf14e6abadc42f1538aaadb11/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3230383736352f33323930633639612d623333342d383432302d346461302d3035623065383733663866612e706e67)
 
 #### 機械学習 PoC と本番運用のあいだ (2021/2)
 
 - [記事へのアクセスはこちらから(Qiita)](https://qiita.com/koyaaarr/items/259ad4f0d574497c5b08)
 - 機械学習系プロジェクトにおいて、PoC で作ったプログラムを本番環境としてクラウド上で運用していく事例を書きました。
 
-![機械学習 PoC と本番運用のあいだ](https://camo.qiitausercontent.com/82ba511be1b702adf14e6abadc42f1538aaadb11/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3230383736352f33323930633639612d623333342d383432302d346461302d3035623065383733663866612e706e67)
+---
+
+![Between Machine Learning PoC and Production](https://miro.medium.com/max/1111/1*RsYYFRUCvRGWQBb8TmSD6g.png)
 
 #### Between Machine Learning PoC and Production (2021/2)
 
 - [記事へのアクセスはこちらから(Medium)](https://medium.com/swlh/between-machine-learning-poc-and-production-618502abef86)
 - 「機械学習 PoC と本番運用のあいだ」の英語バージョンです。
 
-![Between Machine Learning PoC and Production](https://miro.medium.com/max/1111/1*RsYYFRUCvRGWQBb8TmSD6g.png)
-
 ## 作ったもの
 
+![embrii personality-test](/image/about_embrii_personality-test.png)
+
 #### embrii 性格診断 (2021-2022)
+
 - [サイトへのアクセスはこちらから](https://www.personality-test.embrii.jp/en-US/school/questionaire 'embrii personality-test')
 - ビッグファイブと呼ばれる性格を測る指標を用いて、性格診断を行うサイトです。
 - 性格診断を通じて、自己理解や他者理解につながるサービスを目指して、鋭意開発中です。
 
-![embrii personality-test](/image/about_embrii_personality-test.png)
+---
+
+![depengers](/image/about_depengers.png)
 
 #### Depengers (2020)
 
@@ -69,7 +103,9 @@
 - マーベル・シネマティック・ユニバースの作品のチェックリストを管理するサイトです。
 - どの順番で見ればいいかが分かりにくいので、映画同士の順序関係を整理しつつ見たものを記録するために作りました。
 
-![depengers](/image/about_depengers.png)
+---
+
+![splamoments](/image/about_splamoments.png)
 
 #### Splamoments!(2019)
 
@@ -77,7 +113,9 @@
 - Twitter に投稿されたスプラトゥーン 2 の動画のランキングサイトです。
 - 人気の動画を見てスプラトゥーンのモチベを上げるために作りました。
 
-![splamoments](/image/about_splamoments.png)
+---
+
+![costperformance](/image/about_costperformance.png)
 
 #### コスパ.today(2019)
 
@@ -85,7 +123,9 @@
 - Amazon や楽天で販売している水をコスパ(1 リットルあたりの価格)順にランキングしたサイトです。
 - もっともコスパの良い水を買うために作りました。
 
-![costperformance](/image/about_costperformance.png)
+---
+
+![costperformance](/image/about_smartpost.png)
 
 #### スマートポスト(2018)
 
@@ -93,7 +133,9 @@
 - 必要なチラシと不要なチラシを自動で仕分けてくれるポストのプロトタイプです。
 - [AITC](https://aitc.jp/ 'AITC') のイベントで作成しました。
 
-![costperformance](/image/about_smartpost.png)
+---
+
+![adanashindan](/image/about_adanashindan.png)
 
 #### あだ名診断(2017)
 
@@ -101,22 +143,24 @@
 - ハッカソンなど初対面の人たちが集まったときに、簡単にあだ名が付けられるように作りました。
 - [はじめてのハッカソン](https://www.facebook.com/hackathon.creator 'はじめてのハッカソン') で作成しました。
 
-![adanashindan](/image/about_adanashindan.png)
+---
+
+![toraletter](/image/about_toraletter.png)
 
 #### トラレッター(2016)
 
 - 監視カメラを記念撮影としても使えるシステムのちょっとしたプロトタイプを作りました。
 - [社内ハッカソン](https://www.facebook.com/watch/?v=1200227013372218 '社内ハッカソン') で作成しました。
 
-![toraletter](/image/about_toraletter.png)
+---
+
+![drivedemo](/image/drive_recorder_demo.png)
 
 #### ドライブレコーダーデータ可視化アプリケーション
 
 - [デモはこちらから(YouTube)](https://www.youtube.com/watch?v=C63ZfP9bFPY)
 - 大学院の修士時代に実装しました。
 - ドライブレコーダーデータのハンドル操作・ブレーキ操作を地図上に可視化し、危険な操作が多く発生している箇所を特定するために作成しました。
-
-![drivedemo](/image/drive_recorder_demo.png)
 
 ## プライバシーポリシー
 
