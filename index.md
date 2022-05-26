@@ -5,9 +5,7 @@
 ![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="192px" width="192px"}
 
 [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
-
-<!-- [![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr) -->
-
+[![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr)
 [![facebook](/icon/facebook.png){: height="36px" width="36px"}](https://www.facebook.com/ryo.koyajima.71/)
 
 ## 書いたもの
@@ -16,7 +14,7 @@
 
 #### A Practical Use-Case of Cloud-Native and Secured Dashboard with Google Cloud and Python Streamlit
 
-- 記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/a-practical-use-case-of-cloud-native-and-secured-dashboard-with-google-cloud-and-python-streamlit-a66e60d62ca8)
+- [記事へのアクセスはこちらから(Medium)](https://koyaaarr.medium.com/a-practical-use-case-of-cloud-native-and-secured-dashboard-with-google-cloud-and-python-streamlit-a66e60d62ca8)
 - Google Cloud Run + IAP と Python Streamlit を組み合わせて投資ポートフォリオ管理ダッシュボードをつくってみました。英語バージョン&再構成版です。
 
 ---
@@ -25,7 +23,7 @@
 
 #### Google Cloud Run と Python Streamlit を使ってインデックス投資管理ダッシュボードを作ってみる
 
-- 記事へのアクセスはこちらから(Zenn)](https://zenn.dev/koyaaarr/articles/20220509-invest-analytics)
+- [記事へのアクセスはこちらから(Zenn)](https://zenn.dev/koyaaarr/articles/20220509-invest-analytics)
 - Google Cloud Run + IAP と Python Streamlit を組み合わせて投資ポートフォリオ管理ダッシュボードをつくってみました。
 
 ---
