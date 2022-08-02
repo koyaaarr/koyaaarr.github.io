@@ -5,7 +5,7 @@
 ![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="192px" width="192px"}
 
 [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
-[![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr)
+<!-- [![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr) -->
 <!-- [![facebook](/icon/facebook.png){: height="36px" width="36px"}](https://www.facebook.com/ryo.koyajima.71/) -->
 
 ## 書いたもの
