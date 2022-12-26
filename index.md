@@ -1,14 +1,38 @@
-## koyaaarr について
+## About koyaaarr
 
 趣味で Web サービスを作っているデータサイエンティストです。
+I'm a data scientist who create web services as a hobby.
 
 ![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="192px" width="192px"}
 
 [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
+
+![note.com](https://note.com/koyaaarr)
+
+![medium.com](https://medium.com/@koyaaarr)
+
 <!-- [![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr) -->
 <!-- [![facebook](/icon/facebook.png){: height="36px" width="36px"}](https://www.facebook.com/ryo.koyajima.71/) -->
 
-## 書いたもの
+## 書いたもの / Published
+
+![Stone Soup and Data Science](https://miro.medium.com/max/1400/1*2YP6rTZDftVDMcz3f-cN1A.webp)
+
+#### Stone Soup and Data Science (2022/11)
+
+- [記事へのアクセスはこちらから(Medium)](https://medium.com/@koyaaarr/stone-soup-and-data-science-52b47731cbfb)
+- 達人プログラマーの「石のスープ」について、データサイエンティストの観点で考えてみました
+
+---
+
+![Stable Diffusion Quickstart with WSL2 and RTX3070](https://miro.medium.com/max/1400/1*0ShMpjYt15uvsCw_KWAPbw.webp)
+
+#### Stable Diffusion Quickstart with WSL2 and RTX3070 (2022/9)
+
+- [記事へのアクセスはこちらから(Medium)](https://medium.com/@koyaaarr/stable-diffusion-quickstart-withwsl2-and-rtx3070-e8f4e75a47a4)
+- RTX3070 を使って Stable Diffusion のメモリ最適化版を動かしてみました
+
+---
 
 ![A Practical Use-Case of Cloud-Native and Secured Dashboard with Google Cloud and Python Streamlit](https://storage.googleapis.com/zenn-user-upload/deployed-images/8e7e4dc478ab069e12c19096.gif)
 
