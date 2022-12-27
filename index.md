@@ -1,11 +1,13 @@
 ## About koyaaarr
 
 - 趣味で Web サービスを作っているデータサイエンティストです。
-- I'm a data scientist who create web services as a hobby.
+- I'm a data scientist who creates web services as a hobby.
 
-![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="192px" width="192px"}
+![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="160px" width="160px"}
 
-[![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
+<!-- [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/) -->
+
+[Linkedin](https://www.linkedin.com/in/ryo-koyajima/)
 
 [note.com](https://note.com/koyaaarr)
 
@@ -33,6 +35,38 @@
 
 - [記事へのアクセスはこちらから(Medium)](https://medium.com/@koyaaarr/stable-diffusion-quickstart-withwsl2-and-rtx3070-e8f4e75a47a4)
 - RTX3070 を使って Stable Diffusion のメモリ最適化版を動かしてみました
+
+---
+
+![How to Deploy Your Jupyter Notebook As a Dashboard: A use case of visualizing stock data with AWS](https://miro.medium.com/max/1400/1*GtZojO2c3urWeQ_zxzgHQQ.webp)
+
+#### How to Deploy Your Jupyter Notebook As a Dashboard: A use case of visualizing stock data with AWS (2022/8)
+
+- [記事へのアクセスはこちらから(Medium)](https://medium.com/@koyaaarr/how-to-deploy-your-jupyter-notebook-as-a-dashboard-a-use-case-of-visualizing-stock-data-with-aws-ebe5791a5fe7)
+- AWS の Cloud Runner と Jupyter Notebook をダッシュボード化する Mercury を使って株を可視化してみました。
+
+---![Python Streamlit in Practice; A Use-Case of Visualizing Stock Data](https://miro.medium.com/max/1400/1*tpZuypCypENZw1eq8ijWCA.webp)
+
+#### Python Streamlit in Practice; A Use-Case of Visualizing Stock Data (2022/6)
+
+- [記事へのアクセスはこちらから(Medium)](https://medium.com/@koyaaarr/python-streamlit-in-practice-a-use-case-of-visualizing-stock-data-20ec1e1c8478)
+- Python の Plotly と Streamlit を使って株を可視化するダッシュボードを作ってみました。
+
+---
+
+![Python Development Setup for Data Scientists in 2022](https://miro.medium.com/max/1400/0*r2-ip_usVartA4zC)
+
+#### Python Development Setup for Data Scientists in 2022 (2022/6)
+
+- [記事へのアクセスはこちらから(Medium)](https://medium.com/codex/python-development-setup-for-data-scientists-2022-7f80b2018402)
+- Python の環境構築のオススメライブラリと vscode の拡張をまとめてみました
+
+---![dbt and BigQuery in Practice; A Use-Case of Transforming Stock Data](https://miro.medium.com/max/1400/1*Gy4RE4DY28Zqla8KHB3suw.webp)
+
+#### dbt and BigQuery in Practice; A Use-Case of Transforming Stock Data (2022/6)
+
+- [記事へのアクセスはこちらから(Medium)](https://medium.com/dev-genius/dbt-and-bigquery-in-practice-transform-stock-data-1771e2393319)
+- dbt と BigQuery を使って株のデータを管理する DWH と DM を作ってみました。
 
 ---
 
