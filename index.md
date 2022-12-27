@@ -1,7 +1,7 @@
 ## About koyaaarr
 
-趣味で Web サービスを作っているデータサイエンティストです。
-I'm a data scientist who create web services as a hobby.
+- 趣味で Web サービスを作っているデータサイエンティストです。
+- I'm a data scientist who create web services as a hobby.
 
 ![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="192px" width="192px"}
 
