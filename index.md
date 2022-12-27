@@ -7,11 +7,11 @@ I'm a data scientist who create web services as a hobby.
 
 [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/)
 
-![note.com](https://note.com/koyaaarr)
+[note.com](https://note.com/koyaaarr)
 
-![Medium](https://medium.com/@koyaaarr)
+[Medium](https://medium.com/@koyaaarr)
 
-![GitHub](https://github.com/koyaaarr?tab=repositories)
+[GitHub](https://github.com/koyaaarr?tab=repositories)
 
 <!-- [![Twitter](/icon/twitter.svg){: height="36px" width="36px"}](https://twitter.com/koyaaarr) -->
 <!-- [![facebook](/icon/facebook.png){: height="36px" width="36px"}](https://www.facebook.com/ryo.koyajima.71/) -->
