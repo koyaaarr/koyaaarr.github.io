@@ -45,7 +45,9 @@
 - [記事へのアクセスはこちらから(Medium)](https://medium.com/@koyaaarr/how-to-deploy-your-jupyter-notebook-as-a-dashboard-a-use-case-of-visualizing-stock-data-with-aws-ebe5791a5fe7)
 - AWS の Cloud Runner と Jupyter Notebook をダッシュボード化する Mercury を使って株を可視化してみました。
 
----![Python Streamlit in Practice; A Use-Case of Visualizing Stock Data](https://miro.medium.com/max/1400/1*tpZuypCypENZw1eq8ijWCA.webp)
+---
+
+![Python Streamlit in Practice; A Use-Case of Visualizing Stock Data](https://miro.medium.com/max/1400/1*tpZuypCypENZw1eq8ijWCA.webp)
 
 #### Python Streamlit in Practice; A Use-Case of Visualizing Stock Data (2022/6)
 
@@ -61,7 +63,9 @@
 - [記事へのアクセスはこちらから(Medium)](https://medium.com/codex/python-development-setup-for-data-scientists-2022-7f80b2018402)
 - Python の環境構築のオススメライブラリと vscode の拡張をまとめてみました
 
----![dbt and BigQuery in Practice; A Use-Case of Transforming Stock Data](https://miro.medium.com/max/1400/1*Gy4RE4DY28Zqla8KHB3suw.webp)
+---
+
+![dbt and BigQuery in Practice; A Use-Case of Transforming Stock Data](https://miro.medium.com/max/1400/1*Gy4RE4DY28Zqla8KHB3suw.webp)
 
 #### dbt and BigQuery in Practice; A Use-Case of Transforming Stock Data (2022/6)
 
