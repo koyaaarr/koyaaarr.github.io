@@ -3,7 +3,7 @@
 - 趣味で Web サービスを作っているデータサイエンティストです。
 - I'm a data scientist who creates web services as a hobby.
 
-![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="160px" width="160px"}
+<!-- ![koyaaarr](https://koyaaarr.s3.ap-northeast-1.amazonaws.com/profile_202107.png){: height="160px" width="160px"} -->
 
 <!-- [![Linkedin](/icon/linkedin.png){: height="36px" width="36px"}](https://www.linkedin.com/in/ryo-koyajima/) -->
 
